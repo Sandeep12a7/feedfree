@@ -314,6 +314,9 @@ h2 {
 .price-card li {
   padding: 4px 0;
 }
+.price-card .buy {
+  margin-top: 20px;
+}
 .how-to-buy {
   margin: 0;
   padding-top: 16px;
