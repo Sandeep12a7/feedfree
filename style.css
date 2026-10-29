@@ -314,6 +314,13 @@ h2 {
 .price-card li {
   padding: 4px 0;
 }
+.how-to-buy {
+  margin: 0;
+  padding-top: 16px;
+  border-top: 1px solid var(--line);
+  font-size: 15px;
+  color: var(--muted);
+}
 
 /* FAQ */
 details {
